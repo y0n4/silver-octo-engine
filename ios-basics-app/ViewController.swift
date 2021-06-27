@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  ios-basics-app
-//
-//  Created by yona nagayama on 5/31/21.
-//
-
 import UIKit
 
 class ViewController: UIViewController {

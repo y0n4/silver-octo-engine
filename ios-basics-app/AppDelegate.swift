@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  udemy first app
-//
-//  Created by yona nagayama on 5/31/21.
-//
-
 import UIKit
 
 @main
